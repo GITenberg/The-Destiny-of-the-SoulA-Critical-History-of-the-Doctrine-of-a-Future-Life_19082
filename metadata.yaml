@@ -1,0 +1,28 @@
+_repo: The-Destiny-of-the-SoulA-Critical-History-of-the-Doctrine-of-a-Future-Life_19082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, William Rounseville
+    alias: Alger, William R.
+    birthdate: 1822
+    deathdate: 1905
+    gutenberg_agent_id: '8457'
+    url: http://www.gutenberg.org/2009/agents/8457
+description: ''
+gutenberg_issued: '2006-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Future life -- Christianity -- Bibliography'
+- !lcsh 'Future life -- Christianity -- History of doctrines'
+- !lcc 'BT'
+title: 'The Destiny of the Soul: A Critical History of the Doctrine of a Future Life'
+url: http://www.gutenberg.org/ebooks/19082
